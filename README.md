@@ -7,7 +7,7 @@
 
 ## p11 広島市中心部
 
-![p11](https:// "p11")
+![p11](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p11.png?raw=true "p11")
 
 - 個別の建造物→総描
 - 地図記号を当てる学校、公共施設等だけ個別の建造物
@@ -19,7 +19,7 @@
 
 ## p15 宇品
 
-![p15](https:// "p15")
+![p15](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p15.png?raw=true "p15")
 
 - 広島市都市計画総括図をもとにエリアの色分けをした
 - 商工用の港湾は工業区域として紫に
@@ -33,7 +33,8 @@
 
 ## p17 西風新都
 
-![p17](https:// "p17")
+![p17a](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p17a.png?raw=true "p17")
+![p17b](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p17b.png?raw=true "p17")
 
 - 掲載されている各種施設（ジ・アウトレット等）が入る区域にした
 - 他の地図と住宅地域と商工地域の色をあわせた
@@ -47,7 +48,7 @@
 
 ## p18 湯木
 
-![p18](https:// "p18")
+![p18](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p18.png?raw=true "p18")
 
 - シームレス空中写真からの判読、国土地理院の地図の表記（地図記号）元々のイラストの記載から土地利用を設定
 - ソーラーパネルを色分け
@@ -59,7 +60,7 @@
 
 ## p19 白木
 
-![p19](https:// "p19")
+![p19](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p19.png?raw=true "p19")
 
 - シームレス空中写真からの判読、国土地理院の地図の表記（地図記号）元々のイラストの記載から土地利用を設定
 - 田畑を色分け
@@ -72,7 +73,7 @@
 
 ## p23 広島城南
 
-![p23](https:// "p23")
+![p23](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p23.png?raw=true "p23")
 
 - 現在ある堀と、もう存在しない堀を分類して表示
 
@@ -83,7 +84,8 @@
 
 ## p76 広島城周辺
 
-![p76](https:// "p76")
+![p76](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p76.png?raw=true "p76")
+![p76-2](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p76-2.png?raw=true "p76-2")
 
 左図
 - 左右の図を同じ領域に

@@ -73,7 +73,7 @@
 
 ## p23 広島城南
 
-![p23](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p23.png?raw=true "p23")
+![p23](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/P23.png?raw=true "p23")
 
 - 現在ある堀と、もう存在しない堀を分類して表示
 
@@ -84,8 +84,8 @@
 
 ## p76 広島城周辺
 
-![p76](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p76.png?raw=true "p76")
-![p76-2](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p76-2.png?raw=true "p76-2")
+![p76](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/P76.png?raw=true "p76")
+![p76-2](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/P76-2.png?raw=true "p76-2")
 
 左図
 - 左右の図を同じ領域に

@@ -104,9 +104,11 @@
 - 2万5千分1地形図「廣嶋」1925
 
 
-## p84-85（製作中）
+## p84-85
 
-![p85](https:// "p85")
+![p84-1899](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p84-1899.png?raw=true "p84-1899")
+![p85-1944](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p85-1944.png?raw=true "p85-1944")
+![p85-2024](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p85-2024.png?raw=true "p85-2024")
 
 - 以下ソースから地形図から水涯線を作成
 

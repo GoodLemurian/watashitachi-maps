@@ -2,7 +2,6 @@
 
 - 地図を更新
 - 可能な限り図式を統一
-- 注記は別途挿入
 - そもそも現行のままでよいか
 
 ## p11 広島市中心部
@@ -84,8 +83,8 @@
 
 ## p76 広島城周辺
 
-![p76](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/P76.png?raw=true "p76")
 ![p76-2](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/P76-2.png?raw=true "p76-2")
+![p76](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/P76.png?raw=true "p76")
 
 左図
 - 左右の図を同じ領域に
@@ -105,20 +104,33 @@
 
 
 ## p84-85
+埋立地の拡大や鉄道の変化・発展がわかるようにした。
 
 1899
 ![p84-1899](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p84-1899.png?raw=true "p84-1899")
+- 「明治時代」は、山陽線を広島どまり、宇品線は開業した1897に設定
+
+- 広島城の堀を追加
+
 1944
 ![p85-1944](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p85-1944.png?raw=true "p85-1944")
+- 「昭和時代のはじめ」は広電江波線、皆実線があることから1944年に設定
+  
+- 1944年の海岸線を旧版地図や原爆前後の空中写真から推定して作成
+ 
 2024
 ![p85-2024](https://github.com/GoodLemurian/watashitachi-maps/blob/main/images/p85-2024.png?raw=true "p85-2024")
 
-- 以下ソースから地形図から水涯線を作成
+- アストラムラインを追加
+  
+- 道路は高速道路・国道・平和大通り
 
+  
 使用したソース
 - 基盤地図情報
 - 2万分1地形図「廣嶋」1884
 - 2万分1地形図「廣嶋」1910
 - 2万5千分1地形図「廣嶋」1925
 - 2万5千分1地形図「広島」1950
+- 国土地理院空中写真 1945-50
 - AMS HIROSHIMA
